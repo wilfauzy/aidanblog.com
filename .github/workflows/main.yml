@@ -1,0 +1,16 @@
+name: My workflow
+
+on: push
+
+jobs:
+  my-job:
+    name: My job
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to aidanblog.com
+        uses: dswistowski/surge-sh-action@v1
+        with:
+          domain: 'aidanblog.com'
+          project: '.'
+          login: 'me@wildanfauzy.com'
+          token: '4a7a2ac211b6ce4ee840867e51d00e2d'
