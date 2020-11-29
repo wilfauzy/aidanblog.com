@@ -11,6 +11,6 @@ jobs:
         uses: dswistowski/surge-sh-action@v1
         with:
           domain: 'aidanblog.surge.sh'
-          project: '/'
+          project: './_site/'
           login: 'me@wildanfauzy.com'
           token: '4a7a2ac211b6ce4ee840867e51d00e2d'
