@@ -22,7 +22,7 @@ fields:
 - type: file
   name: image
   label: image
-- type: file
+- type: text
   name: optimized_image
   label: optimized_image
 - type: text

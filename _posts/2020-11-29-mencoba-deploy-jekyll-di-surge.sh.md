@@ -4,7 +4,7 @@ layout: post
 title: "Mencoba Deploy Jekyll Di Surge.sh"
 subtitle: Surge.sh deploy web static langsung dari terminal
 description: bertemu salah satu layanan cdn untuk mendoploy static web yaitu surge.sh ternyata memang unik, di halaman website tidak ada user interface untuk login atau mendaftar ternyata semuanya dilakukan dengan command line
-image: https://res.cloudinary.com/nadliw45/image/upload/v1606486225/pexels-negative-space-34088_dv3i39.jpg
+image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_760/v1606486225/pexels-negative-space-34088_dv3i39.jpg
 optimized_image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_380/v1606486224/pexels-negative-space-169573_lyyqxo.jpg
 category: jekyll
 tags: surge.sh

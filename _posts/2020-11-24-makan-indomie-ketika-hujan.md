@@ -4,12 +4,12 @@ author: Wildan Fauzy
 categories:
 - coretan
 title: Makan Indomie Ketika Hujan
-image: https://res.cloudinary.com/nadliw45/image/upload/v1606485056/theme14_gi2ypv_qdayva.jpg
+image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_760/v1606485056/theme14_gi2ypv_qdayva.jpg
 date: 2020-11-24T17:00:00.000+07:00
 subtitle: menuju warung burjo untuk memesan indomie
 description: Akhirnya mengambil payung menuju warung burjo untuk memesan indomie empal
   gentong, memang makan indomie ketika hujan turun sangat nikmat.
-optimized_image: https://res.cloudinary.com/nadliw45/image/upload/v1606485056/theme14_gi2ypv_qdayva.jpg
+optimized_image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_380/v1606485056/theme14_gi2ypv_qdayva.jpg
 category: coretan
 
 ---

@@ -5,8 +5,8 @@ category:
 - coretan
 date: 2020-11-26T21:11:00.000+07:00
 title: Pedoman Hidup Sehat Sesat
-image: https://res.cloudinary.com/nadliw45/image/upload/v1606486224/pexels-george-becker-134402_tq6jtw.jpg
-optimized_image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_380/v1606486224/pexels-george-becker-134402_tq6jtw.jpg
+image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_760/v1606486224/pexels-george-becker-134402_tq6jtw.jpg
+optimized_image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_380/c_scale,w_380/v1606486224/pexels-george-becker-134402_tq6jtw.jpg
 subtitle: Makan tidak kali sehari, dan mandi pagi sore.
 description: Mengubah kebiasaan sangat susah, butuh puluhan hari untuk berubah menjadi
   power ranger pelangi, otak sudah susah untuk diperintah.

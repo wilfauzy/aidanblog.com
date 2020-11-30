@@ -4,11 +4,11 @@ categories:
 - coretan
 title: Bangun Dari Mimpi
 author: Wildan Fauzy
-image: https://res.cloudinary.com/nadliw45/image/upload/v1606728676/pexels-francesca-zama-5325543_ns4s5d.jpg
+image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_760/v1606728676/pexels-francesca-zama-5325543_ns4s5d.jpg
 subtitle: Sepertinya biasa tidur sehabis adzan subuh berkumandang
 description: mimpi kali ini sungguh tidak begitu enak untuk dinikmati, seketika ingin
   bangun dari tidur, sebab mimpi yang sungguh absurd
-optimized_image: https://res.cloudinary.com/nadliw45/image/upload/v1606728676/pexels-francesca-zama-5325543_ns4s5d.jpg
+optimized_image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_380/v1606728676/pexels-francesca-zama-5325543_ns4s5d.jpg
 category: coretan
 
 ---

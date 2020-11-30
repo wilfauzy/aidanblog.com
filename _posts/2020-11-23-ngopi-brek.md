@@ -4,11 +4,11 @@ categories:
 - coretan
 title: 'Ngopi Brek! '
 author: Wildan Fauzy
-image: https://res.cloudinary.com/nadliw45/image/upload/v1606486225/pexels-iain-2267909_w9u32w.jpg
+image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_760/v1606486225/pexels-iain-2267909_w9u32w.jpg
 subtitle: 'Kata-kata itu selalu teringat di kepala, ajakan untuk meminum kopi '
 description: Hampir setengah tahun kalo dihitung berada di rumah, ayam di rumah satu
   per satu hilang entah kemana, kalau pun mati pasti ada batang mayatnya
-optimized_image: https://res.cloudinary.com/nadliw45/image/upload/v1606486225/pexels-iain-2267909_w9u32w.jpg
+optimized_image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_380/v1606486225/pexels-iain-2267909_w9u32w.jpg
 category: coretan
 
 ---

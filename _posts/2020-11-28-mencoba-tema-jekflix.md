@@ -7,8 +7,8 @@ subtitle: 'Tema jekflix tampilan terinspirasi netflix '
 description: Tema jekyll satu ini memang menarik dan menawan di tampilan mobile atau
   desktop sangat resposive dan menerapkan struktur tema yang adaptif sesuau gadget
   yang digunakan, namanya jekflix mirip netflix
-image: https://res.cloudinary.com/nadliw45/image/upload/v1606485056/theme17_nlndhx_oibw2z.jpg
-optimized_image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_380/v1606485056/theme17_nlndhx_oibw2z.jpg
+image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_760/v1606485056/theme17_nlndhx_oibw2z.jpg
+optimized_image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_380/c_scale,w_380/v1606485056/theme17_nlndhx_oibw2z.jpg
 category: jekyll
 tags:
 - jekflix
