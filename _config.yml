@@ -26,7 +26,6 @@ menu:
 email: nadliwis@gmail.com
 disqus_username: idanblog
 
-
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: wilfauzy
@@ -62,6 +61,9 @@ collections:
 paginate_path: "/page/:num/"
 show_get_theme_btn: false
 use_logo: true
+
+# site.yml
+paginate: 13
 
 # Content paginator
 paginate_content:
