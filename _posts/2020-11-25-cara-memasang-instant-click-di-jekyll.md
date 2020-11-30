@@ -5,13 +5,13 @@ categories:
 - javascript
 - jekyll
 title: Cara Memasang Instant Click Di Jekyll
-image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_760/v1606454811/instant-click_s9w0gi.jpg
+image: https://res.cloudinary.com/nadliw45/image/upload/v1606486223/pexels-george-becker-374918_ggutup.jpg
 date: 2020-11-25T23:14:00.000+07:00
 category: jekyll
 subtitle: " menggunakan ssg seperti jekyll dan hugo membuat banyak pelajaran"
 description: sumber kode tersebut setelah mencari akhirnya menemukan website instantclick.io
   dan mencoba menerapkannya di jekyll.
-optimized_image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_380/v1606454811/instant-click_s9w0gi.jpg
+optimized_image: https://res.cloudinary.com/nadliw45/image/upload/v1606486223/pexels-george-becker-374918_ggutup.jpg
 
 ---
 Pengalaman menggunakan ssg seperti jekyll dan hugo membuat banyak pelajaran yang saya dapat, sebelumnya di wordpress sangat malas sekali buat yang namanya mengedit kode, semuanya dimanjakan dengan namanya plugin, yah apa yang kalian butuhkan ada plugin-nya.
