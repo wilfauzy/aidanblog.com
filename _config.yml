@@ -64,7 +64,7 @@ show_get_theme_btn: true
 use_logo: false
 
 # Content paginator
-paginate_content: 9
+paginate_content:
   enabled: true
   debug: false
   collections:
