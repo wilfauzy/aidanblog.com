@@ -63,7 +63,7 @@ show_get_theme_btn: false
 use_logo: false
 
 # site.yml
-paginate: 13
+paginate: 12
 
 # Content paginator
 paginate_content:
