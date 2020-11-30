@@ -22,7 +22,7 @@ fields:
 - type: file
   name: image
   label: image
-- type: text
+- type: file
   name: optimized_image
   label: optimized_image
 - type: text
@@ -38,3 +38,4 @@ fields:
   hidden: true
 pages:
 - _posts/2020-11-28-mencoba-tema-jekflix.md
+- _posts/sepertiga-malam.md
