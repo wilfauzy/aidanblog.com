@@ -24,3 +24,5 @@ menu:
     url: /privacy-policy
 email: nadliwis@gmail.com
 disqus_username: idanblog
+paginate: 12
+
