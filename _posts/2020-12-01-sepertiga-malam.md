@@ -7,8 +7,8 @@ subtitle: Pergantian tanggal di penghujung bulan
 description: 'Tidak terasa sudah berada dipenghujung tahun, desember adalah bulan
   dimana keresahan semakin menumpuk di dalam pikiran, seakan dikejar oleh waktu dan
   saya berlari ditempat. '
-image: https://res.cloudinary.com/nadliw45/image/upload/v1606728677/pexels-ryutaro-tsukata-5220088_si1acj.jpg
-optimized_image: https://res.cloudinary.com/nadliw45/image/upload/v1606728677/pexels-ryutaro-tsukata-5220088_si1acj.jpg
+image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_760/v1606728677/pexels-ryutaro-tsukata-5220088_si1acj.jpg
+optimized_image: https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_380/v1606728677/pexels-ryutaro-tsukata-5220088_si1acj.jpg
 category: coretan
 tags:
 - 'desember '
