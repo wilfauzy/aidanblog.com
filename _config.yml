@@ -47,7 +47,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 paginate_content:
   enabled: true
@@ -81,3 +81,6 @@ exclude:
 - gulpfile.js
 - README.md
 version: ".COM"
+
+# site.yml
+paginate: 12
