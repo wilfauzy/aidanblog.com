@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Wildan Fauzy
-date: 2020-12-01 06:10:00 +0700
+date: 2020-12-09 06:10:00 +0700
 title: Selamat Pagi
 subtitle: 'Pagi bukanlah siang, sat. '
 description: 'Bangun pagi dan selamat tidur, bukan tanpa alasan bisa bangun di pagi
@@ -17,4 +17,4 @@ Bangun pagi dan selamat tidur, bukan tanpa alasan bisa bangun di pagi hari, udar
 
 alhasil, menahan kencing itu tidak baik, selain terbangun, ketika ingin tidur namun terkena air bikin tidak bisa tidur akhirnya berjumpa dengan yang namanya pagi hari. 
 
-> selamat pagi, selamat beraktivitas. 
+> selamat pagi, selamat beraktivitas.
