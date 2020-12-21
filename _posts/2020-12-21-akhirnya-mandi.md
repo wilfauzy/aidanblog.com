@@ -3,19 +3,16 @@ layout: post
 title: Akhirnya Mandi
 author: wildanfauzy
 category: coretan
-image: >-
-  https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_760/v1606454811/home_mpq3fg.jpg
-optimized_image: >-
-  https://res.cloudinary.com/nadliw45/image/upload/c_scale,w_380/v1606454811/home_mpq3fg.jpg
+image: https://res.cloudinary.com/nadliw45/image/upload/v1606486224/pexels-mike-114820_afmstb.jpg
+optimized_image: https://res.cloudinary.com/nadliw45/image/upload/v1606486224/pexels-mike-114820_afmstb.jpg
 tags:
-  - bandung
+- bandung
 subtitle: Sudah hampir dua minggu di bandung
-description: >-
-  Apalagi pas awal datang setiap mandi selalu merinding kedinginan kadang lama
-  di kamar mandi hanya untuk memberanikan diri untuk menyentuh air di bak mandi,
+description: Apalagi pas awal datang setiap mandi selalu merinding kedinginan kadang
+  lama di kamar mandi hanya untuk memberanikan diri untuk menyentuh air di bak mandi,
   namun waktu terus berjalan.
----
 
+---
 Sudah hampir dua minggu di bandung, karena cuaca dingin membuat malas sekali buat mandi, ditambah jarang beraktifitas di luar ruangan, hujan hampir turun setiap harinya, dan badan jarang berkeringat.
 
 Apalagi pas awal datang setiap mandi selalu merinding kedinginan kadang lama di kamar mandi hanya untuk memberanikan diri untuk menyentuh air di bak mandi, namun waktu terus berjalan.
