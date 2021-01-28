@@ -7,7 +7,7 @@ subtitle: Kucing menghilang dengan tiba-tiba
 description: Hari semakin gelap, kembali ke rumah, terlihat benda yang bergerak berwarna
   putih di samping rumah, ketika ku dekati ternyata sekumpulan keluarga kucing berwarna
   putih
-image: https://res.cloudinary.com/nadliw45/image/upload/v1611834633/kucing-putih_i2vej4.jpg
+image: https://res.cloudinary.com/nadliw45/image/upload/v1611835197/Fakta-Menarik-Kucing-Putih_tlu38r.jpg
 optimized_image: https://res.cloudinary.com/nadliw45/image/upload/v1611835197/Fakta-Menarik-Kucing-Putih_tlu38r.jpg
 category: blog
 tags:
