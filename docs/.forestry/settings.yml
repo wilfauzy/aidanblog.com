@@ -20,7 +20,7 @@ sections:
   label: Authors
   create: documents
   match: "**/*"
-upload_dir: assests/images
+upload_dir: docs/assests/images
 public_path: assests/images
 front_matter_path: ''
 use_front_matter_path: 
