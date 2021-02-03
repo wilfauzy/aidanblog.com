@@ -37,7 +37,7 @@ two_columns_layout: false
 baseurl: ''
 url: https://aidanblog.com
 google_analytics: UA-182162153-1
-language: id
+language: en
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 markdown: kramdown
