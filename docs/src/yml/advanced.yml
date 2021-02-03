@@ -1,6 +1,0 @@
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://aidanblog.com" # the base hostname & protocol for your site
-google_analytics: "UA-182162153-1"
-language: "id"
-categories_folder: category
-sent_message_url: "/contact/message-sent/"
