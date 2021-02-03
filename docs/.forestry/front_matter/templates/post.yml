@@ -37,10 +37,9 @@ fields:
   default: Wildan Fauzy
   hidden: true
 pages:
-- _posts/2020-11-28-mencoba-tema-jekflix.md
-- _posts/2020-12-01-selamat-pagi.md
-- _posts/2020-12-01-sepertiga-malam.md
-- _posts/2020-12-05-kembali-ke-bandung.md
-- _posts/2021-01-23-malam-minggu-atau-sabtu-malam.md
-- _posts/2021-01-28-siluman-kucing-putih.md
-- _posts/mandi-kabut-di-panyawangan.md
+- docs/_posts/2020-11-28-mencoba-tema-jekflix.md
+- docs/_posts/2020-12-01-selamat-pagi.md
+- docs/_posts/2020-12-01-sepertiga-malam.md
+- docs/_posts/2020-12-05-kembali-ke-bandung.md
+- docs/_posts/2021-01-23-malam-minggu-atau-sabtu-malam.md
+- docs/_posts/2021-01-28-siluman-kucing-putih.md
