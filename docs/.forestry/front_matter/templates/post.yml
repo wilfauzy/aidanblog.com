@@ -1,0 +1,46 @@
+---
+label: post
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: layout
+  label: layout
+  default: post
+  hidden: true
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: file
+  name: optimized_image
+  label: optimized_image
+- type: text
+  name: category
+  label: category
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: author
+  label: author
+  default: Wildan Fauzy
+  hidden: true
+pages:
+- _posts/2020-11-28-mencoba-tema-jekflix.md
+- _posts/2020-12-01-selamat-pagi.md
+- _posts/2020-12-01-sepertiga-malam.md
+- _posts/2020-12-05-kembali-ke-bandung.md
+- _posts/2021-01-23-malam-minggu-atau-sabtu-malam.md
+- _posts/2021-01-28-siluman-kucing-putih.md
+- _posts/mandi-kabut-di-panyawangan.md
