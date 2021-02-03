@@ -1,0 +1,28 @@
+name: AidanBlog
+title: Aidan Blog | Journal
+description: aidan panggil saja idan merupakan blog pribadi wildan fauzy kumpulan
+  tulisan coretan.
+tags:
+- blog
+- jekyll
+- coretan
+- cdn
+- domain
+- travelling
+- hugo
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
+  - title: Privacy Policy
+    url: /privacy-policy
+email: nadliwis@gmail.com
+disqus_username: idanblog
+paginate: 12
+
