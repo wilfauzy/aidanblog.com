@@ -1,14 +1,26 @@
 ---
 layout: post
 author: Wildan Fauzy
-date: 2021-02-03 11:00:00 +0000
+date: 2021-02-03T11:00:00.000+00:00
 title: Mandi Kabut Di Panyawangan
 subtitle: 'null'
 description: 'null'
-image: https://res.cloudinary.com/nadliw45/image/upload/v1612347130/DSC_0009_g2xzxd.jpg
-optimized_image: https://res.cloudinary.com/nadliw45/image/upload/v1612347130/DSC_0009_g2xzxd.jpg
+image: images/dsc_0009-min.JPG
+optimized_image: images/dsc_0009-min.JPG
 category: ''
 tags: []
 
 ---
-null null null
+null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null.
+
+null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null
+
+null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null nullnull null null null null null null null null null null null null null null null null null null null null null null null
+
+null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null
+
+null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null
+
+null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null 
+
+null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null
