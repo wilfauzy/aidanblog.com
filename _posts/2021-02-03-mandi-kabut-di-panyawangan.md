@@ -5,8 +5,8 @@ date: 2021-02-03T11:00:00.000+00:00
 title: Mandi Kabut Di Panyawangan
 subtitle: 'Pemandangan hijau terpampang'
 description: 'Perjalan ke terasering penyawangan dari cirebon pinggiran lumayan jauh apalagi jalanan yang menanjak ketika sudah melewati daerah maja, kecepatan motor hanya 20-25km/jam'
-image: https://i0.wp.com/aidanblog.com/assets/images/panyawangan.jpeg?fit=760%2C399&ssl=1
-optimized_image: https://i0.wp.com/aidanblog.com/assets/images/panyawangan.jpeg?fit=380%2C169&ssl=1
+image: https://i0.wp.com/aidanblog.com/assets/images/panyawangan.jpeg?resize=760%2C399&ssl=1
+optimized_image: https://i0.wp.com/aidanblog.com/assets/images/panyawangan.jpeg?resize=380%2C200&ssl=1
 category: 'Travelling'
 tags: [panyawangan]
 
