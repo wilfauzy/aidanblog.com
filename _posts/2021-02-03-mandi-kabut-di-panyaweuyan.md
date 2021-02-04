@@ -7,7 +7,7 @@ subtitle: 'Pemandangan hijau terpampang'
 description: 'Perjalan ke terasering penyawangan dari cirebon pinggiran lumayan jauh apalagi jalanan yang menanjak ketika sudah melewati daerah maja, kecepatan motor hanya 20-25km/jam'
 image: https://i0.wp.com/aidanblog.com/assets/images/panyawangan.jpeg?resize=760%2C399&ssl=1
 optimized_image: https://i0.wp.com/aidanblog.com/assets/images/panyawangan.jpeg?resize=380%2C200&ssl=1
-category: 'Travelling'
+category: travelling
 tags: [panyaweuyan]
 
 ---
