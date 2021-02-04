@@ -26,9 +26,9 @@ Sesampai disana keadaan ditutupi oleh kabut karena setelah hujan turun kabut, ti
 
 Tidak lupa memesan kopi indocafe yang cepat dingin dan sisa rokok gudang baru tiga batang membuat cuaca dingin bisa dikompromi.
 
-<video muted autoplay controls>
+<center><video muted autoplay controls>
     <source src="https://aidanblog.com/assets/video/panyawenyan.mp4" type="video/mp4">
-</video>
+</video></center>
 
 Sebahis duhur dan suasana semakin terang akhirnya melangkah menaiki anak tangga ke puncak untuk melihat pemandangan yang lebih luas alhasil dengkul kaki mau copot dan nafas semakin ngos-ngosan, maklum saja hobi saya di rumah adalah rebahan wkwkkw.
 

@@ -13,15 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-      
-    - name: Cache gems
-      uses: actions/cache@v1
-      with:
-        path: vendor/gems
-        key: ${{ runner.os }}-build-${{ hashFiles('**/Gemfile.lock') }}
-        restore-keys: |
-            ${{ runner.os }}-build-
-            ${{ runner.os }}-
             
     - name: Build the site in the jekyll/builder container
       run: |
