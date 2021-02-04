@@ -2,25 +2,31 @@
 layout: post
 author: Wildan Fauzy
 date: 2021-02-03T11:00:00.000+00:00
-title: Mandi Kabut Di Panyawangan
+title: Mandi Kabut Di Panyaweuyan
 subtitle: 'Pemandangan hijau terpampang'
 description: 'Perjalan ke terasering penyawangan dari cirebon pinggiran lumayan jauh apalagi jalanan yang menanjak ketika sudah melewati daerah maja, kecepatan motor hanya 20-25km/jam'
 image: https://i0.wp.com/aidanblog.com/assets/images/panyawangan.jpeg?resize=760%2C399&ssl=1
 optimized_image: https://i0.wp.com/aidanblog.com/assets/images/panyawangan.jpeg?resize=380%2C200&ssl=1
 category: 'Travelling'
-tags: [panyawangan]
+tags: [panyaweuyan]
 
 ---
 
 Malam minggu tidak ada malam mingguan atau versi online karena tidak chattingan dengan kesayangan, namun notifikasi yang sepi membuat merinding juga, apalagi malam ini hujan turun dengan seenaknya, suara kilat saling bersautan seperti  paduan suara, keadaan semakin mencekam tiba-tiba hp bergetar saya kira pesan dari kesayangan namun bukan, ternyata dari teman sd merangkap teman sma dan merangkap teman ngoding di github.
 
-"bro besok ready?" ujar dalam pesan singkat wa. ready apaan dalam hati, mengingat ingatan di dalam memori ternyata dua hari sebelumnya saya menanyakan kabar dia apakah masih di rumah, ternyata dari jaman dulu di rumah terus karena wfh, singkat cerita malam minggu ini tidak bisa tidur, mau tidur subuh besok ada janji dengan teman untuk jalan-jalan ke penyawangan majalengka.
+"bro besok ready?" ujar dalam pesan singkat wa. ready apaan dalam hati, mengingat ingatan di dalam memori ternyata dua hari sebelumnya saya menanyakan kabar dia apakah masih di rumah, ternyata dari jaman dulu di rumah terus karena wfh, singkat cerita malam minggu ini tidak bisa tidur, mau tidur subuh besok ada janji dengan teman untuk jalan-jalan ke Panyaweuyan majalengka.
 
 Pagi buta hujan turun lagi, sepertinya tidak jadi acara travelling wkwk, akhirnya lanjut untuk menunaikan ibadah tidur, namun baru saja mimpi pintu ada yang mengetok, dikira orang yang mengetok pintu di dalam mimpi namun ternyata orang yang mengetuk pintu itu.....
 
-Seorang lelaki berbadan gemuk di bagian perut, rambut acak-acakan bercampur uban yang jarang-jarang, dia adalah orang yang mengajak travelling ke penyawangan, sudah siap mau berangkat, karena baru bangun tidur memutuskan untuk mandi dulu, namun ketika menyentuh air niat itu langsung sirna, alhasil hanya cuci muka dan menggosok gigi.
+itu...
 
-Perjalan ke terasering penyawangan dari cirebon pinggiran lumayan jauh apalagi jalanan yang menanjak ketika sudah melewati daerah maja, kecepatan motor hanya 20-25km/jam apalagi jika berpapasan dengan mobil harus berhenti dulu jalanan sempit nan menikuk.
+dia adalah.....
+
+Seeeee....
+
+Seorang lelaki berbadan gemuk di bagian perut, rambut acak-acakan bercampur uban yang jarang-jarang, dia adalah orang yang mengajak travelling ke Panyaweuyan, sudah siap mau berangkat, karena baru bangun tidur memutuskan untuk mandi dulu, namun ketika menyentuh air niat itu langsung sirna, alhasil hanya cuci muka dan menggosok gigi.
+
+Perjalan ke terasering Panyaweuyan dari cirebon pinggiran lumayan jauh apalagi jalanan yang menanjak ketika sudah melewati daerah maja, kecepatan motor hanya 20-25km/jam apalagi jika berpapasan dengan mobil harus berhenti dulu jalanan sempit nan menikuk.
 
 Sesampai disana keadaan ditutupi oleh kabut karena setelah hujan turun kabut, tidak bisa melihat pemandangan yang kata teman saya indah, mana itu pemandangan, namun semakin siang kabut mulai redup terlihat samar-samar pemandangan yang didominasi warna hijau.
 
