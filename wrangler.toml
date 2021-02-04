@@ -9,5 +9,5 @@ route = "aidanblog.com/*"
 zone_id = "b78798edbf0351f6ff74e67d71e5694d"
 
 [site]
-bucket = "./docs"
+bucket = "./_site"
 entry-point = "workers-site"
