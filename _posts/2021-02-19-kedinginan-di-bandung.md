@@ -4,7 +4,8 @@ author: Wildan Fauzy
 date: 2021-02-19 23:00:00 +0000
 title: 'Kedinginan di Bandung '
 subtitle: 'Musim dingin di bandung '
-description: ''
+description: sial dinginnya bukan main, baru diguyur sekali langsung merinding dan
+  gemeteran tidak mau berhenti disekujur badan
 image: https://res.cloudinary.com/nadliw45/image/upload/v1613779997/pexels-matheus-bertelli-799463_kx2qvc.jpg
 optimized_image: https://res.cloudinary.com/nadliw45/image/upload/v1613779997/pexels-matheus-bertelli-799463_kx2qvc.jpg
 category: Travelling
