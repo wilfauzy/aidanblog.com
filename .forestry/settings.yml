@@ -21,7 +21,7 @@ sections:
   create: documents
   match: "**/*"
 upload_dir: ''
-public_path: https://res.cloudinary.com/nadliw45/image/upload
+public_path: https://i0.wp.com/aidanblog.com
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
