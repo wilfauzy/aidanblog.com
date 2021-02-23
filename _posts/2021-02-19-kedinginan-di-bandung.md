@@ -6,8 +6,8 @@ title: 'Kedinginan di Bandung '
 subtitle: 'Musim dingin di bandung '
 description: sial dinginnya bukan main, baru diguyur sekali langsung merinding dan
   gemeteran tidak mau berhenti disekujur badan
-image: https://res.cloudinary.com/nadliw45/image/upload/v1613779997/pexels-matheus-bertelli-799463_kx2qvc.jpg
-optimized_image: https://res.cloudinary.com/nadliw45/image/upload/v1613779997/pexels-matheus-bertelli-799463_kx2qvc.jpg
+image: https://i0.wp.com/res.cloudinary.com/nadliw45/image/upload/v1613779997/pexels-matheus-bertelli-799463_kx2qvc.jpg?resize=760%2C399&ssl=1
+optimized_image: https://i0.wp.com/res.cloudinary.com/nadliw45/image/upload/v1613779997/pexels-matheus-bertelli-799463_kx2qvc.jpg?resize=380%2C200&ssl=1
 category: Travelling
 tags:
 - 'bandung '

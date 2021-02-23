@@ -82,7 +82,7 @@ exclude:
 - gulpfile.js
 - README.md
 - .jekyll-cache
-version: ".COM"
+version: "INC"
 
 # site.yml
 paginate: 12
