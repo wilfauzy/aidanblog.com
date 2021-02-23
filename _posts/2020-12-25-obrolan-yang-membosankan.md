@@ -8,7 +8,7 @@ optimized_image: https://i0.wp.com/aidanblog.com/assets/images/pexels-amine-m_si
 tags:
 - bandung
 subtitle: ari ini tiba-tiba mendapatkan banyak pesan masuk
-description: Hari ini tiba-tiba mendapatkan banyak pesan masuk, ajakan untuk berkumpul bersama teman sma, setelah selesai menghadiru acara kumpul di rumah sepertu biasa, pembahasan selalu seputar dunia kerja dan masalah saham, sepertinya selalu itu-itu saja.
+description: Hari ini tiba-tiba mendapatkan banyak pesan masuk, ajakan untuk berkumpul bersama teman sma, setelah selesai menghadiru acara kumpul di rumah sepertu biasa.
 
 ---
 
