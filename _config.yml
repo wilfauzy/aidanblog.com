@@ -35,7 +35,7 @@ show_modal_on_exit: true
 show_modal_on_finish_post: false
 two_columns_layout: false
 baseurl: ''
-url: https://aidanblog.com
+url: https://www.aidanblog.com
 google_analytics: UA-182162153-1
 language: en
 categories_folder: category
