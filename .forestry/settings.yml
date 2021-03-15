@@ -20,7 +20,7 @@ sections:
   label: Authors
   create: documents
   match: "**/*"
-upload_dir: ''
+upload_dir: image
 public_path: https://res.cloudinary.com/nadliw45/image/upload
 front_matter_path: ''
 use_front_matter_path: 
